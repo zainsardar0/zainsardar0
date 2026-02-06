@@ -1,7 +1,19 @@
-<img align="center" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3cWJyM3NpMnV2czJ2dXN1ZDV2M2N0cW9xdHMwOW9laWx0Y2x4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif" />
 
-<h1 align="center">Hi 👋, I'm M Zain Ul Abideen</h1>
-<h3 align="center">Aspiring AI Engineer | Machine Learning • Deep Learning • NLP • Computer Vision</h3>
+<h1 align="center">Muhammad Zain Ul Abideen-AI Engineer</h1>
+<h3 align="center">Hi 👋, I'm M Zain Ul AbideenAspiring AI Engineer | Machine Learning • Deep Learning • NLP • Computer Vision</h3>
+<p align="left">
+  <a href="mailto:zainsardar062@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abidden-1705032b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zainsardar0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
