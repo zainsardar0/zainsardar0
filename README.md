@@ -1,41 +1,117 @@
-<img align="center" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3cWJyM3NpMnV2czJ2dXN1ZDV2M2N0cW9xdHMwOW9laWx0Y2x4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"  />
-<h1 align="center">Hi 👋, I'm M Zain Ul Abideen </h1>
-<h3 align="center">A passionate AI Engineer from Pakistan</h3>
-<img align = "right" alt = "lazy Sherry coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBreDJqdXd1OTB2MTMwcDg1aDZlNXRuYjEycWdycTZucG9ramNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
+<img align="center" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3cWJyM3NpMnV2czJ2dXN1ZDV2M2N0cW9xdHMwOW9laWx0Y2x4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif" />
 
-###
-- 🌱 I’m currently learning Generative AI NLP , Computer vision
-
-- 👨‍💻 All of my projects are available at [https://github.com/zainsardar0]
-
-- 💬 Ask me about AI
-
-- 📫 How to reach me zainsardar062@gmail.com
-
-- ⚡ Fun fact I am lazy ambitious Guy
-
-## 🌐 Socials:
-- <div align="left">
-  <h3 align="left">🔥  Social :</h3>
- <p align="left">
-<a href="https://twitter.com/zainsardar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeeljaved95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-zain-ul-abidden-1705032b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
-</p>
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zainsardar0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zainsardar0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainsardar0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zainsardar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm M Zain Ul Abideen</h1>
+<h3 align="center">Aspiring AI Engineer | Machine Learning • Deep Learning • NLP • Computer Vision</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saifullahrao8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in 
+## 🧠 Summary
 
+I am an aspiring **AI Engineer** with a strong foundation in **Machine Learning and Deep Learning**, specializing in supervised and unsupervised learning, **CNNs, Transformers, NLP, and Computer Vision**. I have hands-on experience building data-driven projects such as **airline prediction systems** and **space mission forecasting models**. I have completed the **Machine Learning Specialization by Andrew Ng**, with a growing focus on **ethical and responsible AI development**.
 
+---
+
+## 📚 Areas of Expertise
+
+- 🤖 **Machine Learning** — Supervised & Unsupervised Learning, model training and evaluation  
+- 🧠 **Deep Learning** — CNNs and Transformer-based architectures  
+- ✍️ **Natural Language Processing (NLP)** — Text preprocessing and language modeling workflows  
+- 👁️ **Computer Vision** — Image-based data analysis and deep learning approaches  
+- ⚖️ **AI Ethics & Bias Evaluation** — Fairness, bias awareness, and responsible AI practices  
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Programming & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🔹 Machine Learning & Deep Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### 🔹 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+A selection of hands-on projects demonstrating the application of machine learning concepts to real-world prediction and analysis problems.
+
+### 🚀 Cosmic Mission Forecast
+**Repository:** `cosmic-mission-forecast`
+
+Developed a forecasting system focused on **space mission analysis and prediction** using machine learning techniques.  
+This project strengthened my understanding of **feature engineering, predictive modeling, and analytical evaluation**.
+
+**Skills:** Machine Learning · Data Analysis · Predictive Modeling · Python
+
+---
+
+### ✈️ Airlines Prediction System (AWS)
+**Repository:** `AIRLINES-PREDICTIONS-AWS`
+
+Built an end-to-end **machine learning prediction system** using airline data, focusing on structured data preprocessing and supervised learning workflows.  
+This project improved my understanding of **real-world ML pipelines and cloud-aware deployment concepts**.
+
+**Skills:** Supervised Learning · Data Preprocessing · Model Evaluation · Python · AWS (Conceptual)
+
+---
+
+## 📚 Certifications & Learning
+
+### 🤖 Machine Learning Specialization *(Completed)*
+**By:** Stanford University & DeepLearning.AI  
+**Instructor:** Andrew Ng  
+**Platform:** Coursera  
+🔗 **Credential:** https://coursera.org/share/75252557037b773dda07452d73404f5f  
+
+**Core Topics Covered:**
+- Supervised Learning (Regression & Classification)  
+- Advanced Learning Algorithms (Neural Networks)  
+- Unsupervised Learning (Clustering, Dimensionality Reduction)  
+- Recommender Systems & Reinforcement Learning basics  
+- Model evaluation, optimization, and ethical ML considerations  
+
+### 📌 Continuous Learning Focus
+- Deep Learning (CNNs & Transformers)  
+- Natural Language Processing  
+- Computer Vision  
+- Generative AI & Responsible AI Systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainsardar0&show_icons=true&theme=default&hide_border=true" width="400"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsardar0&layout=compact&hide_border=true" width="330"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+I’m always open to collaborating on AI projects, discussing machine learning ideas, and connecting with like-minded individuals.
+
+<p align="left">
+  <a href="mailto:zainsardar062@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abidden-1705032b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zainsardar0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
