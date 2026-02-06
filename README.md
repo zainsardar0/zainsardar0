@@ -1,7 +1,15 @@
 
-<h1 align="center">Muhammad Zain Ul Abideen-AI Engineer</h1>
-<h3 align="center">Hi 👋, I'm M Zain Ul AbideenAspiring AI Engineer | Machine Learning • Deep Learning • NLP • Computer Vision</h3>
-<p align="left">
+<h1 align="center">👦 Muhammad Zain Ul Abideen - AI Engineer</h1>
+
+<h3 align="center">
+  Hi 👋, I'm M Zain Ul Abideen | Aspiring AI Engineer •certified by  DeepLearning.AI, Stanford
+</h3>
+
+<p align="center">
+  <em>Curious, disciplined learner focused on long-term growth</em>
+</p>
+
+<p align="center">
   <a href="mailto:zainsardar062@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -19,7 +27,18 @@
 
 ## 🧠 Summary
 
-I am an aspiring **AI Engineer** with a strong foundation in **Machine Learning and Deep Learning**, specializing in supervised and unsupervised learning, **CNNs, Transformers, NLP, and Computer Vision**. I have hands-on experience building data-driven projects such as **airline prediction systems** and **space mission forecasting models**. I have completed the **Machine Learning Specialization by Andrew Ng**, with a growing focus on **ethical and responsible AI development**.
+<p align="center">
+  I am a fourth-year <strong>AI student</strong> and passionate engineer focused on building
+  <strong>ethical, scalable, and real-world AI solutions</strong>. My work spans
+  <strong>machine learning research</strong>, <strong>AI system design</strong>, and
+  <strong>data-driven problem solving</strong>, with hands-on experience in
+  <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>,
+  <strong>Generative AI</strong>, and <strong>Agentic AI systems</strong>.
+  I am particularly interested in developing intelligent systems that can reason, adapt,
+  and operate autonomously. Looking ahead, I aim to contribute to
+  <strong>responsible AI development</strong> by creating solutions that are not only powerful,
+  but also <strong>interpretable, inclusive, and aligned with human values</strong>.
+</p>
 
 ---
 
