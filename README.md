@@ -1,262 +1,141 @@
-<h1 align="center">🤖 Muhammad Zain Ul Abideen — AI Engineer</h1>
+## Muhammad Zain Ul Abideen
 
-<h3 align="center">
-  Hi 👋, I'm Zain | Aspiring AI Engineer • Certified by Stanford & DeepLearning.AI
-</h3>
+![GitHub stars](https://img.shields.io/github/stars/zainsardar0?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/zainsardar0?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=zainsardar0&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-<p align="center">
-  <em>Curious by nature. Building intelligent systems that learn fast, think deeply, and solve real-world problems. 🚀</em>
-</p>
+## Professional Profile
 
-<p align="center">
-  <a href="mailto:zainsardar062@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-1705032b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zainsardar0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=zainsardar0&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+Final-year BS Artificial Intelligence student and AI/ML Engineer building **agentic AI systems** — retrieval-augmented generation, LLM-powered pipelines, and production-grade deployments. I design end-to-end systems where safety is architectural: guardrailed inputs, deterministic citations, and evaluated outputs. Currently focused on agentic RAG, LLMOps, and shipping real products with Docker and CI.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zainsardar0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-abideen-1705032b3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zainsardar062@gmail.com)
 
-## 🧠 Summary
+## Technical Stack
 
-<p align="center">
-  I am a fourth-year <strong>AI student</strong> and passionate engineer focused on building
-  <strong>ethical, scalable, and real-world AI solutions</strong>. My work spans
-  <strong>machine learning research</strong>, <strong>AI system design</strong>, and
-  <strong>data-driven problem solving</strong>, with hands-on experience in
-  <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>,
-  <strong>Generative AI</strong>, <strong>LLMOps</strong>, and <strong>Agentic AI systems</strong>.
-  I am particularly interested in developing intelligent systems that can reason, adapt,
-  and operate autonomously. Looking ahead, I aim to contribute to
-  <strong>responsible AI development</strong> by creating solutions that are not only powerful,
-  but also <strong>interpretable, inclusive, and aligned with human values</strong>.
-</p>
+### Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📚 Areas of Expertise
+### AI / Machine Learning
 
-- 🤖 **Machine Learning** — Supervised & Unsupervised Learning, model training and evaluation
-- 🧠 **Deep Learning** — CNNs and Transformer-based architectures
-- 💬 **Natural Language Processing (NLP)** — RAG pipelines, LLMs, text analysis
-- 🔁 **LLMOps & Agentic AI** — Building and deploying LLM-powered applications
-- 🌐 **MCP Servers** — Model Context Protocol server development (TypeScript)
-- ⚖️ **AI Ethics & Bias Evaluation** — Fairness, bias awareness, and responsible AI practices
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-FA1316?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
----
+### Frameworks & Libraries
 
-## 🛠 Tech Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-### 🔹 Programming & Core Tools
+### Data & AI Infrastructure
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-</p>
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC3262?style=flat-square&logo=qdrant&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-000000?style=flat-square)
 
-### 🔹 Machine Learning & Deep Learning
+### Tools & Deployment
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🔹 Data Analysis & Visualization
+## Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-</p>
+Building agentic AI systems across healthcare, infrastructure, and education.
 
 ---
 
-## 🌟 Projects
+### 🏥 MedGuide AI — Guardrailed Agentic Medical Q&A
 
-<p align="center">
-  A curated showcase of hands-on projects — featuring real-world applications across AI, NLP, LLMOps, and data science.
-</p>
+**[View Project Details](https://github.com/zainsardar0/MedGuide-AI)**
 
----
+Agentic medical assistant that answers health-education questions with grounded, cited, safety-checked responses. A LangGraph agent runs every question through guardrails, retrieval, and output validation — safety checks execute *before* any retrieval spend.
 
-### 🏥 RAG Medical Chatbot
-**Repository:** [`RAG-MEDICAL-CHATBOT`](https://github.com/zainsardar0/RAG-MEDICAL-CHATBOT)
+**Key Highlights**
 
-Built an intelligent **Retrieval-Augmented Generation (RAG) medical chatbot** that answers health-related questions by retrieving information from a curated knowledge base and generating accurate, context-aware responses using LLMs.
+- Guardrail input gate: emergency triage fast-path, greeting handling, and an LLM medical-vs-off-topic classifier that fails open
+- Semantic cache: repeat questions answered instantly at cosine ≥ 0.95 with zero API spend
+- Deterministic citations: Sources footer appended in code from retrieved evidence — never trusted to the model
+- Hybrid retrieval: Pinecone over the *Gale Encyclopedia of Medicine* plus Tavily web fallback
+- Streaming SSE answers with clickable source chips, confidence signals, and honest "limited evidence" badges
+- 16 keyless CI tests plus a 13-case behavioral eval suite; Dockerized with persistent memory
 
-**Key Features:**
-- Retrieval-Augmented Generation (RAG) pipeline
-- Medical knowledge base integration
-- Context-aware LLM-powered responses
-- Clean, interactive UI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**📌 Outcome:** A smart medical Q&A assistant demonstrating practical LLM + retrieval system design.
+[Source Code](https://github.com/zainsardar0/MedGuide-AI)
 
-**Tech Used:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+### ☸️ KubeMind — Enterprise Agentic RAG for Kubernetes
 
----
+**[View Project Details](https://github.com/zainsardar0/KubeMind)**
 
-### 🎌 Anime Recommender System (LLMOps)
-**Repository:** [`ANIME-RECOMMENDER-SYSTEM-LLMOPS`](https://github.com/zainsardar0/ANIME-RECOMMENDER-SYSTEM-LLMOPS)
+Production-grade enterprise Agentic RAG for Kubernetes troubleshooting — an autonomous LangGraph state machine with pre-retrieval security guardrails, two-stage retrieval, and a built-in continuous evaluation suite.
 
-Developed a production-ready **LLM-powered anime recommendation system** using LLMOps best practices.
-Combines user preferences with language model reasoning to deliver personalized, intelligent recommendations at scale.
+**Key Highlights**
 
-**Key Features:**
-- LLM-powered personalized recommendations
-- Full LLMOps pipeline: design, testing & deployment
-- Preference-aware reasoning engine
-- Scalable production architecture
+- NVIDIA NeMo Guardrails gate blocks jailbreaks and off-topic queries in <1s before any retrieval spend
+- Two-stage retrieval: Qdrant Cloud top-15 → FlashRank cross-encoder rerank to top-5
+- Resilient LLM gateway: Portkey with automatic fallback on 429/503
+- RAGAS 6-experiment benchmark suite (faithfulness, answer relevancy, context precision/recall) with a Streamlit dashboard
+- Full observability via Pydantic Logfire; Docker-hardened deployment
 
-**📌 Outcome:** A fully functional recommender system applying real-world LLMOps principles — going beyond basic ML.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC3262?style=flat-square&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Tech Used:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+[Source Code](https://github.com/zainsardar0/KubeMind)
 
----
+### 🎓 EduQuery AI — Prompt-Based Analytics for Academic Databases
 
-### ☁️ Weather MCP Server
-**Repository:** [`weather-mcp-server`](https://github.com/zainsardar0/weather-mcp-server)
+**[View Project Details](https://github.com/zainsardar0/EduQuery-AI)**
 
-Built a **production-ready MCP (Model Context Protocol) server** for real-time weather data powered by the Open-Meteo API.
-This server enables AI agents to query live weather conditions — a practical tool for LLM-based agentic applications.
+Prompt-based intelligent analytics and prediction engine for multi-campus academic databases. Educational leaders query institutional data in natural language, receive explainable visualizations, search policy documents via RAG, and review student risk predictions — without exposing confidential student PII.
 
-**Key Features:**
-- Real-time weather data via Open-Meteo API
-- Full MCP protocol compliance
-- Production-ready TypeScript implementation
-- AI agent integration ready
+**Key Highlights**
 
-**📌 Outcome:** A fully functional MCP server that plugs into any LLM application for live weather awareness.
+- Wren AI NL2SQL over 68 governed database definitions across 20 campuses
+- Policy Search RAG over institutional documents with exact clause citations
+- AutoGluon/TabPFN academic risk engine with SHAP explanations
+- sqlglot AST read-only guard plus automatic PII redaction
+- React 19 + Vite dashboard with live demo on Vercel
 
-**Tech Used:**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+[Source Code](https://github.com/zainsardar0/EduQuery-AI)
 
-### ✈️ Airlines Prediction System (AWS)
-**Repository:** [`AIRLINES-PREDICTIONS-AWS`](https://github.com/zainsardar0/AIRLINES-PREDICTIONS-AWS)
+## Certifications
 
-Built an end-to-end **machine learning prediction system** on airline data, focusing on structured data preprocessing and supervised learning workflows with cloud-aware deployment using AWS.
+### Stanford University & DeepLearning.AI
 
-**Key Features:**
-- Full ML pipeline: preprocessing → training → evaluation
-- Supervised learning (classification & regression)
-- AWS deployment concepts
-- Model performance analysis & reporting
+- Machine Learning Specialization — 3 courses (Supervised ML, Advanced Learning Algorithms, Unsupervised Learning & Recommenders), instructor Andrew Ng — [View Certificate](https://coursera.org/share/75252557037b773dda07452d73404f5f)
 
-**📌 Outcome:** A complete real-world ML pipeline demonstrating cloud-aware AI system design.
+## Activity
 
-**Tech Used:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zainsardar0&theme=github-dark-blue&hide_border=true)
 
----
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainsardar0&bg_color=0d1117&color=58a6ff&line=1f6feb&point=7c3fff&area=true&hide_border=true)
 
-### 🚀 Cosmic Mission Forecast
-**Repository:** [`cosmic-mission-forecast`](https://github.com/zainsardar0/cosmic-mission-forecast)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zainsardar0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-abideen-1705032b3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainsardar062@gmail.com)
 
-Developed a **space mission analysis and forecasting system** using machine learning techniques.
-Performed feature engineering on astrophysical data to build predictive models for mission outcomes.
-
-**Key Features:**
-- Feature engineering on real space mission data
-- Predictive modeling & outcome classification
-- Analytical evaluation and visualization
-
-**📌 Outcome:** Strengthened core ML skills through a unique and engaging real-world dataset.
-
-**Tech Used:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-</p>
-
----
-
-## 📚 Certifications
-
-### 🤖 Machine Learning Specialization *(Completed)*
-**By:** Stanford University & DeepLearning.AI &nbsp;|&nbsp; **Instructor:** Andrew Ng &nbsp;|&nbsp; **Platform:** Coursera
-
-<p align="left">
-  <a href="https://coursera.org/share/75252557037b773dda07452d73404f5f" target="_blank">
-    <img src="https://img.shields.io/badge/Stanford%20%26%20DeepLearning.AI-Machine%20Learning%20Specialization-blue?style=flat-square&logo=coursera" />
-  </a>
-</p>
-
-A rigorous 3-course specialization by Andrew Ng covering the full landscape of modern machine learning — from fundamentals to real-world deployment.
-
-- **Supervised ML: Regression & Classification** ✅
-- **Advanced Learning Algorithms** (Neural Networks, Decision Trees) ✅
-- **Unsupervised Learning, Recommenders & Reinforcement Learning** ✅
-
-🔗 [View Certificate](https://coursera.org/share/75252557037b773dda07452d73404f5f)
-
-### 📌 Continuous Learning Focus
-- Deep Learning (CNNs & Transformers)
-- Natural Language Processing
-- Computer Vision
-- Generative AI & Responsible AI Systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainsardar0&show_icons=true&theme=default&hide_border=true" width="400"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsardar0&layout=compact&hide_border=true" width="330"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  Whether you want to collaborate on AI projects, discuss machine learning ideas, or just say hi —<br>
-  I'm always open to meaningful conversations and new opportunities!
-</p>
-
-<p align="center">
-  <a href="mailto:zainsardar062@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hi!-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-1705032b3/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zainsardar0" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-GitHub-black?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Fueled by curiosity, built with code — <strong>Muhammad Zain Ul Abideen</strong> ❤️</em>
-</p>
+Muhammad Zain Ul Abideen · AI/ML Engineer · Lahore, Pakistan
