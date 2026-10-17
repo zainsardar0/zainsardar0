@@ -170,9 +170,17 @@ Prompt-based intelligent analytics and prediction engine for multi-campus academ
 
 </div>
 
-Core AI & Deep Learning Certifications
+## Core AI & Deep Learning Certifications
+
 ### DeepLearning.AI / Stanford University
-- Machine Learning Specialization (3 Courses) — [View Certificate](https://coursera.org/share/75252557037b773dda07452d73404f5f)  
+- Machine Learning Specialization (3 Courses) — [View Certificate](https://coursera.org/share/75252557037b773dda07452d73404f5f)
+
+### DeepEmbed Lab
+- Certificate in Artificial Intelligence (CAI)
+
+### Ghulam Ishaq Khan Institute (GIKI)
+- Advanced AI Bootcamp (2026)
+
 
 <br>
 
