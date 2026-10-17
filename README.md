@@ -5,12 +5,7 @@
 </div>
 
 
-<br>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/zainsardar0?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/zainsardar0?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=zainsardar0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+
 
 <br> 
 
