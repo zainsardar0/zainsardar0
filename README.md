@@ -196,7 +196,7 @@ Prompt-based intelligent analytics and prediction engine for multi-campus academ
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainsardar0&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true"/>
+
 
 </div>
 <br>
